@@ -1,4 +1,4 @@
-//Algoritma Vize Sýnavý 1. soru çözümü (kendim yaptým)
+//Algoritma Vize SÃ½navÃ½ 1. soru Ã§Ã¶zÃ¼mÃ¼ 
 import java.util.Scanner;
 
 public class Test {
@@ -7,7 +7,7 @@ public class Test {
 		
 Scanner input = new Scanner(System.in);
 	
-System.out.print("Lütfen Bir Sayý Giriniz");		
+System.out.print("LÃ¼tfen Bir SayÃ½ Giriniz");		
 		
    int a = input.nextInt();		
    int sayac = 1;
@@ -15,10 +15,10 @@ System.out.print("Lütfen Bir Sayý Giriniz");
 while (sayac<=30) {   
 
    if (a%2==0) {
-System.out.println(a + " Çift bir sayýdýr.");   
+System.out.println(a + " Ã‡ift bir sayÃ½dÃ½r.");   
    } 
    else	
-System.out.println(a + " Tek bir sayýdýr.");	   
+System.out.println(a + " Tek bir sayÃ½dÃ½r.");	   
 	   
  sayac++;
  a = input.nextInt();
@@ -26,7 +26,7 @@ System.out.println(a + " Tek bir sayýdýr.");
   	
 		
 }		
-System.out.println("Artýk bitti programý yeniden baþlatýnýz.");	
+System.out.println("ArtÃ½k bitti programÃ½ yeniden baÃ¾latÃ½nÃ½z.");	
    	
 		
 
