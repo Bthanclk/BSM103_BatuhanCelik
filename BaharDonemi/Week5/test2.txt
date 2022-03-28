@@ -1,0 +1,8 @@
+masa
+sandalye
+kitap
+bilgisayar
+klavye
+kitap 
+sandalye
+fare

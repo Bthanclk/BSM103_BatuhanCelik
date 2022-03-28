@@ -1,0 +1,11 @@
+bilgisayar 
+kitap
+sira
+masa
+sandalye
+bartin
+bilgisayar
+masa
+fare
+klavye
+sira
